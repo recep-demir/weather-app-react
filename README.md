@@ -62,5 +62,5 @@ To use the OpenWeatherMap API, you need to get an API key:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or contributions, feel free to reach out at [demir.rp@gmail.com](mailto:demir.rp@gmail.comm).
+For any inquiries or contributions, feel free to reach out at [demir.rp@gmail.com](mailto:demir.rp@gmail.com).
 
