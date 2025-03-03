@@ -1,5 +1,5 @@
 # Weather App React
-[Live Demo](https://netlix-app-e77933.netlify.app/)
+[Live Demo](https://weather-app-react-001.netlify.app/)
 ## Screenshots
 
 ![App Screenshot](./public/weather.gif)
