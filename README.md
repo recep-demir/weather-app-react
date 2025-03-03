@@ -23,7 +23,7 @@ This is a simple weather application built with React. It fetches real-time weat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app-react.git
+   git clone https://github.com/recep-demir/weather-app-react.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -62,5 +62,5 @@ To use the OpenWeatherMap API, you need to get an API key:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or contributions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or contributions, feel free to reach out at [demir.rp@gmail.com](mailto:demir.rp@gmail.comm).
 
