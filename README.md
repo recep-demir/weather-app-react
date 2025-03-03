@@ -1,4 +1,9 @@
 # Weather App React
+[Live Demo](https://netlix-app-e77933.netlify.app/)
+## Screenshots
+
+![App Screenshot](./public/weather.gif)
+
 
 ## Description
 This is a simple weather application built with React. It fetches real-time weather data from the OpenWeatherMap API and displays the current weather conditions for a searched location.
@@ -50,7 +55,8 @@ To use the OpenWeatherMap API, you need to get an API key:
 - The app will display the weather details for the searched city.
 
 ## Screenshots
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./public/image%20copy.png)
+![](./public/image%20copy%202.png) 
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
